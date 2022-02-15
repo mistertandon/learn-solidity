@@ -1,11 +1,22 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.7;
+pragma solidity ^0.8.3;
 
-contract StateVariable{
-    string public name = "My name is state variable";
+contract LocalVariables{
+
+    uint256 public stateVNumber;
+
+    address public stateVAddress;
 
     function foo() external {
-        string memory nickName ="My name is local variable";
+
+        uint256 localVNumber;
+        address localVAddress;
+
+        localVNumber +=10;
+        localVAddress = address(10);
+
+        stateVNumber +=5;
+        stateVAddress = address(5);
     }
 }
