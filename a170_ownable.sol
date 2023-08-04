@@ -2,13 +2,12 @@
 
 pragma solidity ^0.8.7;
 
-contract Ownable{
-
+contract Ownable {
     address public owner;
     uint256 public privateCounter;
     uint256 public publicCounter;
 
-    constructor(){
+    constructor() {
         owner = msg.sender;
     }
 
@@ -27,6 +26,5 @@ contract Ownable{
 
     function anyoneCanCallThisFunction() external {
         publicCounter++;
-    }    
-
+    }
 }

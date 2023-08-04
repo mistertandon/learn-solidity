@@ -2,8 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-contract ValueTypes{
-
+contract ValueTypes {
     uint256 public uint256Min = type(uint256).min;
 
     uint256 public uint256Max = type(uint256).max;

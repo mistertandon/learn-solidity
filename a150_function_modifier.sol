@@ -1,8 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-contract FunctionModifer{
-
+contract FunctionModifer {
     bool public paused;
 
     uint256 public count;
@@ -17,12 +16,12 @@ contract FunctionModifer{
     }
 
     function increaseCount() external whenNotPaused {
-        count+=1;
+        count += 1;
     }
 
     function decreaseCount() external whenNotPaused {
-        count-=1;
-    }    
+        count -= 1;
+    }
 
     modifier upperRange(uint256 _x) {
         require(_x < 100, "Arg must be less than 100");
@@ -30,7 +29,7 @@ contract FunctionModifer{
     }
 
     function increaseCountBy(uint256 _x) external whenNotPaused upperRange(_x) {
-        count +=_x;
+        count += _x;
     }
 
     modifier sandwitch() {
@@ -39,8 +38,7 @@ contract FunctionModifer{
         count *= 2;
     }
 
-    function multipleCountUpdate(uint256 _x) external sandwitch{
-        count +=_x;
+    function multipleCountUpdate(uint256 _x) external sandwitch {
+        count += _x;
     }
-
 }

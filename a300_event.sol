@@ -2,8 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-contract Event{
-
+contract Event {
     event Log(string message, uint256 val);
 
     event IndexedLog(address indexed sender, uint256 val);

@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-contract Enum{
-    enum Status{
+contract Enum {
+    enum Status {
         None,
         Pending,
         Shipped,
@@ -13,14 +13,14 @@ contract Enum{
 
     Status public status;
 
-    struct Order{
+    struct Order {
         address buyer;
         Status status;
     }
 
     Order[] public orders;
 
-    function get() view external returns (Status){
+    function get() external view returns (Status) {
         return status;
     }
 

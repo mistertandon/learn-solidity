@@ -1,11 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-contract ArrayShift{
-
+contract ArrayShift {
     uint256[] public numArray;
 
-    function getNumArray() public view returns (uint256[] memory){
+    function getNumArray() public view returns (uint256[] memory) {
         return numArray;
     }
 
@@ -18,10 +17,11 @@ contract ArrayShift{
         _;
     }
 
-    function deleteElementAtIndex(uint256 _idx) public validateNumArrayLength(_idx){
-        
-        for(uint256 i = _idx; i< numArray.length -1; i++){
-            numArray[i] = numArray[i+1];
+    function deleteElementAtIndex(
+        uint256 _idx
+    ) public validateNumArrayLength(_idx) {
+        for (uint256 i = _idx; i < numArray.length - 1; i++) {
+            numArray[i] = numArray[i + 1];
         }
 
         numArray.pop();
