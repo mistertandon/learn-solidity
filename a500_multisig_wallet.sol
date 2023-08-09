@@ -29,7 +29,7 @@ contract MultiSigWallet {
     }
 
     modifier txExists(uint _txId) {
-        require(_txId < tansactions.length, "Transaction does not exists");
+        require(_txId < transactions.length, "Transaction does not exists");
         _;
     }
 
@@ -43,7 +43,7 @@ contract MultiSigWallet {
 
     modifier notExecuted(uint _txId) {
         require(
-            !transactions[_txId][msg.sender][executed],
+            !transactions[_txId]["executed"],
             "Transaction has already been executed"
         );
         _;
