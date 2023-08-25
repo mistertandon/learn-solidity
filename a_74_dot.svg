@@ -1,0 +1,466 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="855pt" height="1489pt" viewBox="0.00 0.00 855.28 1489">
+<g id="graph0" class="graph" transform="translate(4,1485) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1485 851.28,-1485 851.28,4 -4,4"/>
+<g id="clust4" class="cluster" data-name="clusterDev">
+
+<path fill="#445773" stroke="#445773" d="M82.23,-479C82.23,-479 163.87,-479 163.87,-479 169.87,-479 175.87,-485 175.87,-491 175.87,-491 175.87,-544 175.87,-544 175.87,-550 169.87,-556 163.87,-556 163.87,-556 82.23,-556 82.23,-556 76.23,-556 70.23,-550 70.23,-544 70.23,-544 70.23,-491 70.23,-491 70.23,-485 76.23,-479 82.23,-479"/>
+<text text-anchor="middle" x="123.05" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">Dev</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterCounterV2">
+
+<path fill="#445773" stroke="#445773" d="M96.05,-93C96.05,-93 150.05,-93 150.05,-93 156.05,-93 162.05,-99 162.05,-105 162.05,-105 162.05,-212 162.05,-212 162.05,-218 156.05,-224 150.05,-224 150.05,-224 96.05,-224 96.05,-224 90.05,-224 84.05,-218 84.05,-212 84.05,-212 84.05,-105 84.05,-105 84.05,-99 90.05,-93 96.05,-93"/>
+<text text-anchor="middle" x="123.05" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">CounterV2</text>
+</g>
+<g id="clust11" class="cluster" data-name="clusterabi">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M303.36,-1073C303.36,-1073 404.31,-1073 404.31,-1073 410.31,-1073 416.31,-1079 416.31,-1085 416.31,-1085 416.31,-1138 416.31,-1138 416.31,-1144 410.31,-1150 404.31,-1150 404.31,-1150 303.36,-1150 303.36,-1150 297.36,-1150 291.36,-1144 291.36,-1138 291.36,-1138 291.36,-1085 291.36,-1085 291.36,-1079 297.36,-1073 303.36,-1073"/>
+<text text-anchor="middle" x="353.83" y="-1133.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">abi</text>
+</g>
+<g id="clust12" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="50.05,-1344 50.05,-1473 388.83,-1473 388.83,-1344 50.05,-1344"/>
+<text text-anchor="middle" x="219.44" y="-1456.4" font-family="Times,serif" font-size="14.00">Legend</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterproxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M312.48,-1158C312.48,-1158 395.19,-1158 395.19,-1158 401.19,-1158 407.19,-1164 407.19,-1170 407.19,-1170 407.19,-1223 407.19,-1223 407.19,-1229 401.19,-1235 395.19,-1235 395.19,-1235 312.48,-1235 312.48,-1235 306.48,-1235 300.48,-1229 300.48,-1223 300.48,-1223 300.48,-1170 300.48,-1170 300.48,-1164 306.48,-1158 312.48,-1158"/>
+<text text-anchor="middle" x="353.83" y="-1218.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">proxy</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusterimplementation">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M513.23,-313C513.23,-313 619.52,-313 619.52,-313 625.52,-313 631.52,-319 631.52,-325 631.52,-325 631.52,-378 631.52,-378 631.52,-384 625.52,-390 619.52,-390 619.52,-390 513.23,-390 513.23,-390 507.23,-390 501.23,-384 501.23,-378 501.23,-378 501.23,-325 501.23,-325 501.23,-319 507.23,-313 513.23,-313"/>
+<text text-anchor="middle" x="566.38" y="-373.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">implementation</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterStorageSlot">
+
+<path fill="#445773" stroke="#445773" d="M695.18,-583C695.18,-583 827.28,-583 827.28,-583 833.28,-583 839.28,-589 839.28,-595 839.28,-595 839.28,-648 839.28,-648 839.28,-654 833.28,-660 827.28,-660 827.28,-660 695.18,-660 695.18,-660 689.18,-660 683.18,-654 683.18,-648 683.18,-648 683.18,-595 683.18,-595 683.18,-589 689.18,-583 695.18,-583"/>
+<text text-anchor="middle" x="761.23" y="-643.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">StorageSlot  (lib)</text>
+</g>
+<g id="clust1" class="cluster" data-name="clusterCounterV1">
+
+<path fill="#445773" stroke="#445773" d="M96.05,-8C96.05,-8 150.05,-8 150.05,-8 156.05,-8 162.05,-14 162.05,-20 162.05,-20 162.05,-73 162.05,-73 162.05,-79 156.05,-85 150.05,-85 150.05,-85 96.05,-85 96.05,-85 90.05,-85 84.05,-79 84.05,-73 84.05,-73 84.05,-20 84.05,-20 84.05,-14 90.05,-8 96.05,-8"/>
+<text text-anchor="middle" x="123.05" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">CounterV1</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterProxyAdmin">
+
+<path fill="#445773" stroke="#445773" d="M20,-981C20,-981 226.1,-981 226.1,-981 232.1,-981 238.1,-987 238.1,-993 238.1,-993 238.1,-1324 238.1,-1324 238.1,-1330 232.1,-1336 226.1,-1336 226.1,-1336 20,-1336 20,-1336 14,-1336 8,-1330 8,-1324 8,-1324 8,-993 8,-993 8,-987 14,-981 20,-981"/>
+<text text-anchor="middle" x="123.05" y="-1319.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">ProxyAdmin</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterBuggyProxy">
+
+<path fill="#445773" stroke="#445773" d="M50.7,-232C50.7,-232 397.87,-232 397.87,-232 403.87,-232 409.87,-238 409.87,-244 409.87,-244 409.87,-459 409.87,-459 409.87,-465 403.87,-471 397.87,-471 397.87,-471 50.7,-471 50.7,-471 44.7,-471 38.7,-465 38.7,-459 38.7,-459 38.7,-244 38.7,-244 38.7,-238 44.7,-232 50.7,-232"/>
+<text text-anchor="middle" x="224.28" y="-454.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">BuggyProxy</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterTestSlot">
+
+<path fill="#445773" stroke="#445773" d="M523.93,-425C523.93,-425 608.82,-425 608.82,-425 614.82,-425 620.82,-431 620.82,-437 620.82,-437 620.82,-544 620.82,-544 620.82,-550 614.82,-556 608.82,-556 608.82,-556 523.93,-556 523.93,-556 517.93,-556 511.93,-550 511.93,-544 511.93,-544 511.93,-437 511.93,-437 511.93,-431 517.93,-425 523.93,-425"/>
+<text text-anchor="middle" x="566.38" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">TestSlot</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterProxy">
+
+<path fill="#445773" stroke="#445773" d="M50.7,-564C50.7,-564 651.18,-564 651.18,-564 657.18,-564 663.18,-570 663.18,-576 663.18,-576 663.18,-961 663.18,-961 663.18,-967 657.18,-973 651.18,-973 651.18,-973 50.7,-973 50.7,-973 44.7,-973 38.7,-967 38.7,-961 38.7,-961 38.7,-576 38.7,-576 38.7,-570 44.7,-564 50.7,-564"/>
+<text text-anchor="middle" x="350.94" y="-956.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">Proxy</text>
+</g>
+<!-- CounterV1.inc -->
+<g id="node1" class="node" pointer-events="visible" data-name="CounterV1.inc">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-34" rx="27" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-29.8" font-family="Times,serif" font-size="14.00">inc</text>
+</g><g id="edge1" class="edge" data-name="BuggyProxy._delegate-&gt;implementation.delegatecall" data-comment="CounterV1.inc">
+
+<path fill="none" stroke="white" stroke-width="2" d="M403.14,-339C430.44,-339 465.05,-339 495.29,-339"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="494.92,-342.5 504.92,-339 494.92,-335.5 494.92,-342.5"/>
+</g>
+<!-- CounterV2.inc -->
+<g id="node2" class="node" pointer-events="visible" data-name="CounterV2.inc">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-173" rx="27" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-168.8" font-family="Times,serif" font-size="14.00">inc</text>
+</g>
+<!-- CounterV2.dec -->
+<g id="node3" class="node" pointer-events="visible" data-name="CounterV2.dec">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-119" rx="27" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-114.8" font-family="Times,serif" font-size="14.00">dec</text>
+</g><g id="edge2" class="edge" data-name="BuggyProxy.&lt;Fallback&gt;-&gt;BuggyProxy._delegate" data-comment="CounterV2.dec">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M176.82,-359.77C211.73,-355.65 257.55,-350.25 293.69,-345.98"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="294,-349.47 303.52,-344.82 293.18,-342.52 294,-349.47"/>
+</g>
+<!-- BuggyProxy.&lt;Constructor&gt; -->
+<g id="node4" class="node" pointer-events="visible" data-name="BuggyProxy.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="123.05" cy="-420" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-415.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- BuggyProxy._delegate -->
+<g id="node5" class="node" pointer-events="visible" data-name="BuggyProxy._delegate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-339" rx="48.07" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-334.8" font-family="Times,serif" font-size="14.00">_delegate</text>
+</g><g id="edge3" class="edge" data-name="BuggyProxy.&lt;Receive Ether&gt;-&gt;BuggyProxy._delegate" data-comment="BuggyProxy._delegate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M193.31,-320.17C225.42,-323.96 263.18,-328.42 293.89,-332.04"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="293.24,-335.49 303.59,-333.19 294.06,-328.54 293.24,-335.49"/>
+</g>
+<!-- implementation.delegatecall -->
+<g id="node34" class="node" pointer-events="visible" data-name="implementation.delegatecall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="566.38" cy="-339" rx="57.29" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-334.8" font-family="Times,serif" font-size="14.00">delegatecall</text>
+</g>
+<!-- BuggyProxy._delegate&#45;&gt;implementation.delegatecall -->
+
+<!-- BuggyProxy.&lt;Fallback&gt; -->
+<g id="node6" class="node" pointer-events="visible" data-name="BuggyProxy.&lt;Fallback&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="123.05" cy="-366" rx="55.36" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-361.8" font-family="Times,serif" font-size="14.00">&lt;Fallback&gt;</text>
+</g>
+<!-- BuggyProxy.&lt;Fallback&gt;&#45;&gt;BuggyProxy._delegate -->
+
+<!-- BuggyProxy.&lt;Receive Ether&gt; -->
+<g id="node7" class="node" pointer-events="visible" data-name="BuggyProxy.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="123.05" cy="-312" rx="76.21" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-307.8" font-family="Times,serif" font-size="14.00">&lt;Receive Ether&gt;</text>
+</g><g id="edge4" class="edge" data-name="Proxy.&lt;Constructor&gt;-&gt;Proxy._setAdmin" data-comment="BuggyProxy.&lt;Receive Ether&gt;">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M186.87,-690.59C218.61,-686.84 257.05,-682.3 288.94,-678.54"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="289.19,-682.04 298.71,-677.39 288.37,-675.08 289.19,-682.04"/>
+</g>
+<!-- BuggyProxy.&lt;Receive Ether&gt;&#45;&gt;BuggyProxy._delegate -->
+
+<!-- BuggyProxy.upgradeTo -->
+<g id="node8" class="node" pointer-events="visible" data-name="BuggyProxy.upgradeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-258" rx="52.73" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-253.8" font-family="Times,serif" font-size="14.00">upgradeTo</text>
+</g>
+<!-- Dev.selectors -->
+<g id="node9" class="node" pointer-events="visible" data-name="Dev.selectors">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-505" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-500.8" font-family="Times,serif" font-size="14.00">selectors</text>
+</g><g id="edge5" class="edge" data-name="Proxy.ifAdmin-&gt;Proxy._getAdmin" data-comment="Dev.selectors">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.57,-797.7C208.63,-788.56 257.94,-776.06 295.87,-766.44"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="296.5,-769.89 305.33,-764.04 294.78,-763.11 296.5,-769.89"/>
+</g>
+<!-- Proxy.&lt;Constructor&gt; -->
+<g id="node10" class="node" pointer-events="visible" data-name="Proxy.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="123.05" cy="-698" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-693.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- Proxy._setAdmin -->
+<g id="node13" class="node" pointer-events="visible" data-name="Proxy._setAdmin">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-671" rx="53.34" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-666.8" font-family="Times,serif" font-size="14.00">_setAdmin</text>
+</g><g id="edge6" class="edge" data-name="Proxy.ifAdmin-&gt;Proxy._fallback" data-comment="Proxy._setAdmin">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M175.68,-813.61C210.66,-816.06 256.98,-819.3 293.48,-821.85"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="293.2,-825.34 303.42,-822.54 293.69,-818.36 293.2,-825.34"/>
+</g>
+<!-- Proxy.&lt;Constructor&gt;&#45;&gt;Proxy._setAdmin -->
+
+<!-- Proxy.ifAdmin -->
+<g id="node11" class="node" pointer-events="visible" data-name="Proxy.ifAdmin">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="170.29,-802.54 170.29,-817.46 142.62,-828 103.48,-828 75.81,-817.46 75.81,-802.54 103.48,-792 142.62,-792 170.29,-802.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="174.28,-799.79 174.28,-820.21 143.35,-832 102.75,-832 71.82,-820.21 71.82,-799.79 102.75,-788 143.35,-788 174.28,-799.79"/>
+<text text-anchor="middle" x="123.05" y="-805.8" font-family="Times,serif" font-size="14.00">ifAdmin</text>
+</g><g id="edge7" class="edge" data-name="Proxy._getAdmin-&gt;StorageSlot.getAddressSlot" data-comment="Proxy.ifAdmin">
+
+<path fill="none" stroke="white" stroke-width="2" d="M380.03,-735.06C404.08,-719.69 441.84,-697.55 477.57,-685 556.62,-657.23 583.05,-676.48 663.18,-652 680.91,-646.58 699.69,-638.79 715.96,-631.31"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="717.01,-634.68 724.57,-627.26 714.03,-628.35 717.01,-634.68"/>
+</g>
+<!-- Proxy._getAdmin -->
+<g id="node12" class="node" pointer-events="visible" data-name="Proxy._getAdmin">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-752" rx="54.48" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-747.8" font-family="Times,serif" font-size="14.00">_getAdmin</text>
+</g>
+<!-- Proxy.ifAdmin&#45;&gt;Proxy._getAdmin -->
+<g id="edge8" class="edge" data-name="Proxy._setAdmin-&gt;Proxy.address" data-comment="Proxy.ifAdmin-&gt;Proxy._getAdmin">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M402.08,-680.2C435.84,-686.77 481.17,-695.6 515.51,-702.29"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="514.63,-705.68 525.11,-704.16 515.96,-698.81 514.63,-705.68"/>
+</g>
+<!-- Proxy._fallback -->
+<g id="node21" class="node" pointer-events="visible" data-name="Proxy._fallback">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-826" rx="46.92" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-821.8" font-family="Times,serif" font-size="14.00">_fallback</text>
+</g><g id="edge9" class="edge" data-name="Proxy._setAdmin-&gt;StorageSlot.getAddressSlot" data-comment="Proxy._fallback">
+
+<path fill="none" stroke="white" stroke-width="2" d="M404.1,-663.34C426.51,-659.87 453.38,-655.71 477.57,-652 548.12,-641.17 628.6,-628.94 685.59,-620.3"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="686.11,-623.76 695.47,-618.8 685.06,-616.84 686.11,-623.76"/>
+</g>
+<!-- Proxy.ifAdmin&#45;&gt;Proxy._fallback -->
+
+<!-- StorageSlot.getAddressSlot -->
+<g id="node31" class="node" pointer-events="visible" data-name="StorageSlot.getAddressSlot">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="761.23" cy="-609" rx="70.1" ry="18"/>
+<text text-anchor="middle" x="761.23" y="-604.8" font-family="Times,serif" font-size="14.00">getAddressSlot</text>
+</g><g id="edge10" class="edge" data-name="Proxy._getImplementation-&gt;StorageSlot.getAddressSlot" data-comment="StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="white" stroke-width="2" d="M636.93,-830.15C646.43,-826.4 655.53,-821.48 663.18,-815 717.3,-769.18 743.22,-686.43 753.9,-641.01"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="757.28,-641.93 756.02,-631.41 750.44,-640.41 757.28,-641.93"/>
+</g>
+<!-- Proxy._getAdmin&#45;&gt;StorageSlot.getAddressSlot -->
+
+<!-- Proxy.address -->
+<g id="node24" class="node" pointer-events="visible" data-name="Proxy.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="566.38" cy="-712" rx="40" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-707.8" font-family="Times,serif" font-size="14.00">address</text>
+</g><g id="edge11" class="edge" data-name="Proxy._setImplementation-&gt;StorageSlot.getAddressSlot" data-comment="Proxy.address">
+
+<path fill="none" stroke="white" stroke-width="2" d="M441.31,-594.05C511.21,-597.33 608.98,-601.91 677.79,-605.14"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.54,-608.63 687.69,-605.6 677.86,-601.64 677.54,-608.63"/>
+</g>
+<!-- Proxy._setAdmin&#45;&gt;Proxy.address -->
+
+<!-- Proxy._setAdmin&#45;&gt;StorageSlot.getAddressSlot -->
+<g id="edge12" class="edge" data-name="Proxy.changeAdmin-&gt;Proxy._setAdmin" data-comment="Proxy._setAdmin-&gt;StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.06,-651.2C217.31,-655.01 256.86,-659.67 289.46,-663.52"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="288.7,-666.95 299.04,-664.65 289.52,-660 288.7,-666.95"/>
+</g>
+<!-- Proxy._getImplementation -->
+<g id="node14" class="node" pointer-events="visible" data-name="Proxy._getImplementation">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="566.38" cy="-842" rx="88.61" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-837.8" font-family="Times,serif" font-size="14.00">_getImplementation</text>
+</g>
+<!-- Proxy._getImplementation&#45;&gt;StorageSlot.getAddressSlot -->
+<g id="edge13" class="edge" data-name="Proxy.upgradeTo-&gt;Proxy._setImplementation" data-comment="Proxy._getImplementation-&gt;StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M177.11,-590C199.36,-590 226,-590 251.73,-590"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="251.64,-593.5 261.64,-590 251.64,-586.5 251.64,-593.5"/>
+</g>
+<!-- Proxy._setImplementation -->
+<g id="node15" class="node" pointer-events="visible" data-name="Proxy._setImplementation">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-590" rx="87.97" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-585.8" font-family="Times,serif" font-size="14.00">_setImplementation</text>
+</g>
+<!-- Proxy._setImplementation&#45;&gt;StorageSlot.getAddressSlot -->
+<g id="edge14" class="edge" data-name="Proxy.admin-&gt;Proxy._getAdmin" data-comment="Proxy._setImplementation-&gt;StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M159.8,-752C193.25,-752 244.1,-752 285.21,-752"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="285.15,-755.5 295.15,-752 285.15,-748.5 285.15,-755.5"/>
+</g>
+<!-- Proxy.changeAdmin -->
+<g id="node16" class="node" pointer-events="visible" data-name="Proxy.changeAdmin">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-644" rx="65.41" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-639.8" font-family="Times,serif" font-size="14.00">changeAdmin</text>
+</g>
+<!-- Proxy.changeAdmin&#45;&gt;Proxy._setAdmin -->
+<g id="edge15" class="edge" data-name="Proxy.implementation-&gt;Proxy._getImplementation" data-comment="Proxy.changeAdmin-&gt;Proxy._setAdmin">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M414.6,-869.21C436.25,-865.31 461.07,-860.83 484.24,-856.64"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="484.72,-860.11 493.94,-854.89 483.47,-853.23 484.72,-860.11"/>
+</g>
+<!-- Proxy.upgradeTo --><!-- Proxy._delegate -->
+<g id="node17" class="node" pointer-events="visible" data-name="Proxy.upgradeTo" data-comment="Proxy._delegate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-590" rx="52.73" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-585.8" font-family="Times,serif" font-size="14.00">upgradeTo</text>
+</g>
+<!-- Proxy.upgradeTo&#45;&gt;Proxy._setImplementation --><!-- Proxy._fallback&#45;&gt;Proxy._getImplementation -->
+<g id="edge17" class="edge" data-name="Proxy._fallback-&gt;Proxy._getImplementation">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M401.3,-829.53C421.12,-831.04 445.04,-832.86 468.41,-834.63"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="468.05,-838.11 478.29,-835.38 468.58,-831.13 468.05,-838.11"/>
+</g>
+<!-- Proxy.admin --><!-- Proxy._fallback&#45;&gt;Proxy._delegate -->
+<g id="node18" class="node" pointer-events="visible" data-name="Proxy.admin" data-comment="Proxy._fallback-&gt;Proxy._delegate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-752" rx="35.35" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-747.8" font-family="Times,serif" font-size="14.00">admin</text>
+</g><g id="edge16" class="edge" data-name="Proxy._fallback-&gt;Proxy._delegate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M397.95,-818.22C429.99,-812.44 473.99,-804.49 508.84,-798.2"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="509.03,-801.73 518.25,-796.5 507.79,-794.84 509.03,-801.73"/>
+</g>
+<!-- Proxy.admin&#45;&gt;Proxy._getAdmin --><!-- Proxy.&lt;Fallback&gt; -->
+
+<!-- Proxy.implementation --><!-- Proxy.&lt;Fallback&gt;&#45;&gt;Proxy._fallback -->
+<g id="node19" class="node" pointer-events="visible" data-name="Proxy.implementation" data-comment="Proxy.&lt;Fallback&gt;-&gt;Proxy._fallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="353.83" cy="-880" rx="71.79" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-875.8" font-family="Times,serif" font-size="14.00">implementation</text>
+</g><g id="edge18" class="edge" data-name="Proxy.&lt;Fallback&gt;-&gt;Proxy._fallback">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M178.26,-917.58C198.43,-913.87 220.64,-907.14 238.1,-895 256.52,-882.19 248.14,-866.44 266.1,-853 275.27,-846.14 286.23,-840.99 297.21,-837.15"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="298.12,-840.53 306.64,-834.23 296.05,-833.84 298.12,-840.53"/>
+</g>
+<!-- Proxy.implementation&#45;&gt;Proxy._getImplementation --><!-- Proxy.&lt;Receive Ether&gt; -->
+
+<g id="node20" class="node" pointer-events="visible" data-name="Proxy._delegate" data-comment="Proxy.&lt;Receive Ether&gt;">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="566.38" cy="-788" rx="48.07" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-783.8" font-family="Times,serif" font-size="14.00">_delegate</text>
+</g><g id="node22" class="node" pointer-events="visible" data-name="Proxy.&lt;Fallback&gt;" data-comment="Proxy.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="123.05" cy="-922" rx="55.36" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-917.8" font-family="Times,serif" font-size="14.00">&lt;Fallback&gt;</text>
+</g><g id="node23" class="node" pointer-events="visible" data-name="Proxy.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="123.05" cy="-868" rx="76.21" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-863.8" font-family="Times,serif" font-size="14.00">&lt;Receive Ether&gt;</text>
+</g><!-- Proxy.&lt;Receive Ether&gt;&#45;&gt;Proxy._fallback -->
+<g id="edge19" class="edge" data-name="Proxy.&lt;Receive Ether&gt;-&gt;Proxy._fallback">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.96,-856.63C220.7,-850.26 263.67,-842.37 297.31,-836.19"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="297.53,-839.71 306.73,-834.46 296.26,-832.83 297.53,-839.71"/>
+</g>
+<!-- ProxyAdmin.&lt;Constructor&gt; -->
+<g id="node25" class="node" pointer-events="visible" data-name="ProxyAdmin.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="123.05" cy="-1285" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-1280.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- ProxyAdmin.onlyOwner -->
+<g id="node26" class="node" pointer-events="visible" data-name="ProxyAdmin.onlyOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="182,-1219.54 182,-1234.46 147.47,-1245 98.63,-1245 64.1,-1234.46 64.1,-1219.54 98.63,-1209 147.47,-1209 182,-1219.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="185.99,-1216.58 185.99,-1237.42 148.06,-1249 98.04,-1249 60.1,-1237.42 60.1,-1216.58 98.04,-1205 148.06,-1205 185.99,-1216.58"/>
+<text text-anchor="middle" x="123.05" y="-1222.8" font-family="Times,serif" font-size="14.00">onlyOwner</text>
+</g>
+<!-- ProxyAdmin.getProxyAdmin -->
+<g id="node27" class="node" pointer-events="visible" data-name="ProxyAdmin.getProxyAdmin">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-1169" rx="72.96" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-1164.8" font-family="Times,serif" font-size="14.00">getProxyAdmin</text>
+</g>
+<!-- proxy.staticcall -->
+<g id="node35" class="node" pointer-events="visible" data-name="proxy.staticcall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-1184" rx="45.21" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-1179.8" font-family="Times,serif" font-size="14.00">staticcall</text>
+</g>
+<!-- ProxyAdmin.getProxyAdmin&#45;&gt;proxy.staticcall -->
+<g id="edge20" class="edge" data-name="ProxyAdmin.getProxyAdmin-&gt;proxy.staticcall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M195.18,-1173.66C227.18,-1175.76 264.47,-1178.21 294.74,-1180.19"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="294.46,-1183.68 304.66,-1180.84 294.92,-1176.69 294.46,-1183.68"/>
+</g>
+<!-- abi.encodeCall -->
+<g id="node36" class="node" pointer-events="visible" data-name="abi.encodeCall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="353.83" cy="-1099" rx="54.45" ry="18"/>
+<text text-anchor="middle" x="353.83" y="-1094.8" font-family="Times,serif" font-size="14.00">encodeCall</text>
+</g>
+<!-- ProxyAdmin.getProxyAdmin&#45;&gt;abi.encodeCall -->
+<g id="edge21" class="edge" data-name="ProxyAdmin.getProxyAdmin-&gt;abi.encodeCall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M181.28,-1156.94C199.56,-1152.69 219.8,-1147.57 238.1,-1142 260.53,-1135.17 284.92,-1126.25 305.42,-1118.3"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="306.47,-1121.65 314.5,-1114.74 303.91,-1115.14 306.47,-1121.65"/>
+</g>
+<!-- ProxyAdmin.getProxyImplementation -->
+<g id="node28" class="node" pointer-events="visible" data-name="ProxyAdmin.getProxyImplementation">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-1115" rx="107.1" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-1110.8" font-family="Times,serif" font-size="14.00">getProxyImplementation</text>
+</g>
+<!-- ProxyAdmin.getProxyImplementation&#45;&gt;proxy.staticcall -->
+<g id="edge22" class="edge" data-name="ProxyAdmin.getProxyImplementation-&gt;proxy.staticcall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M194.24,-1129.61C208.87,-1133.21 224.09,-1137.38 238.1,-1142 250.96,-1146.24 253.47,-1149.12 266.1,-1154 278.47,-1158.78 291.97,-1163.63 304.55,-1167.99"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="303.3,-1171.26 313.89,-1171.19 305.56,-1164.64 303.3,-1171.26"/>
+</g>
+<!-- ProxyAdmin.getProxyImplementation&#45;&gt;abi.encodeCall -->
+<g id="edge23" class="edge" data-name="ProxyAdmin.getProxyImplementation-&gt;abi.encodeCall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M224.07,-1108.01C245.17,-1106.53 266.94,-1105.01 286.44,-1103.64"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="286.46,-1107.15 296.19,-1102.96 285.97,-1100.17 286.46,-1107.15"/>
+</g>
+<!-- ProxyAdmin.changeProxyAdmin -->
+<g id="node29" class="node" pointer-events="visible" data-name="ProxyAdmin.changeProxyAdmin">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-1061" rx="88.06" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-1056.8" font-family="Times,serif" font-size="14.00">changeProxyAdmin</text>
+</g>
+<!-- ProxyAdmin.upgrade -->
+<g id="node30" class="node" pointer-events="visible" data-name="ProxyAdmin.upgrade">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="123.05" cy="-1007" rx="42.28" ry="18"/>
+<text text-anchor="middle" x="123.05" y="-1002.8" font-family="Times,serif" font-size="14.00">upgrade</text>
+</g>
+<!-- TestSlot.getSlot -->
+<g id="node32" class="node" pointer-events="visible" data-name="TestSlot.getSlot">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="566.38" cy="-505" rx="38.3" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-500.8" font-family="Times,serif" font-size="14.00">getSlot</text>
+</g>
+<!-- TestSlot.getSlot&#45;&gt;StorageSlot.getAddressSlot -->
+<g id="edge24" class="edge" data-name="TestSlot.getSlot-&gt;StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="white" stroke-width="2" d="M593.39,-519.03C625.07,-536.11 679.04,-565.22 717,-585.69"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="715.1,-588.64 725.57,-590.31 718.42,-582.48 715.1,-588.64"/>
+</g>
+<!-- TestSlot.writeSlot -->
+
+<g id="node33" class="node" pointer-events="visible" data-name="TestSlot.writeSlot">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="566.38" cy="-451" rx="46.39" ry="18"/>
+<text text-anchor="middle" x="566.38" y="-446.8" font-family="Times,serif" font-size="14.00">writeSlot</text>
+</g>
+
+<!-- TestSlot.writeSlot&#45;&gt;StorageSlot.getAddressSlot -->
+
+<g id="edge25" class="edge" data-name="TestSlot.writeSlot-&gt;StorageSlot.getAddressSlot">
+
+<path fill="none" stroke="white" stroke-width="2" d="M611.49,-457.12C628.73,-461.06 647.96,-467.5 663.18,-478 700.45,-503.71 729.03,-548.44 745.24,-578.38"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="742.08,-579.9 749.82,-587.14 748.29,-576.66 742.08,-579.9"/>
+</g>
+
+<!-- key -->
+
+<g id="node37" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="188.05,-1440 58.05,-1440 58.05,-1352 188.05,-1352 188.05,-1440"/>
+<text text-anchor="start" x="107.69" y="-1421.4" font-family="Times,serif" font-size="14.00">Internal Call</text>
+<text text-anchor="start" x="103.8" y="-1401.4" font-family="Times,serif" font-size="14.00">External Call</text>
+<text text-anchor="start" x="81.25" y="-1381.4" font-family="Times,serif" font-size="14.00">Defined Contract</text>
+<text text-anchor="start" x="67.65" y="-1361.4" font-family="Times,serif" font-size="14.00">Undefined Contract</text>
+</g>
+
+<!-- key2 -->
+
+<g id="node38" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="380.83,-1440 326.83,-1440 326.83,-1352 380.83,-1352 380.83,-1440"/>
+<text text-anchor="start" x="343.83" y="-1421.4" font-family="Times,serif" font-size="14.00">   </text>
+<text text-anchor="start" x="343.83" y="-1401.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="#445773" stroke="none" points="341.83,-1376 341.83,-1396 366.83,-1396 366.83,-1376 341.83,-1376"/>
+<text text-anchor="start" x="343.83" y="-1381.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="none" stroke="#e8726d" points="343.83,-1358 343.83,-1374 364.83,-1374 364.83,-1358 343.83,-1358"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+<g id="edge26" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M181.05,-1426C247.63,-1426 267.39,-1426 328.12,-1426"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="327.81,-1429.5 337.81,-1426 327.81,-1422.5 327.81,-1429.5"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+
+<g id="edge27" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M181.05,-1406C247.63,-1406 267.39,-1406 328.12,-1406" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="327.81,-1409.5 337.81,-1406 327.81,-1402.5 327.81,-1409.5"/>
+</g>
+</g>
+</svg>
